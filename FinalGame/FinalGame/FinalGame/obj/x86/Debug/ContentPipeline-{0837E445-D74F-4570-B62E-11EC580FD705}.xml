@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>menuScreenPics\immortal.png</Source>
+      <Name>menuScreenPics\immortal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenPics\immortal.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenPics\kombat.png</Source>
+      <Name>menuScreenPics\kombat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenPics\kombat.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenPics\menuOptions.png</Source>
+      <Name>menuScreenPics\menuOptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenPics\menuOptions.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenPics\pointer.png</Source>
+      <Name>menuScreenPics\pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenPics\pointer.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenBackground\gameBackground (1).jpg</Source>
+      <Name>gameScreenBackground\gameBackground (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenBackground\gameBackground (1).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenBackground\gameBackground (2).jpg</Source>
+      <Name>gameScreenBackground\gameBackground (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenBackground\gameBackground (2).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenBackground\gameBackground (3).jpg</Source>
+      <Name>gameScreenBackground\gameBackground (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenBackground\gameBackground (3).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenBackground\gameBackground (4).jpg</Source>
+      <Name>gameScreenBackground\gameBackground (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenBackground\gameBackground (4).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenBackground\gameBackground (5).jpg</Source>
+      <Name>gameScreenBackground\gameBackground (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenBackground\gameBackground (5).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenBackground\gameBackground (6).jpg</Source>
+      <Name>gameScreenBackground\gameBackground (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenBackground\gameBackground (6).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenBackground\gameBackground (7).jpg</Source>
+      <Name>gameScreenBackground\gameBackground (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenBackground\gameBackground (7).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenBackground\gameBackground (8).jpg</Source>
+      <Name>gameScreenBackground\gameBackground (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenBackground\gameBackground (8).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>practiceScreenBackground\practiceBackground.jpg</Source>
+      <Name>practiceScreenBackground\practiceBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\practiceScreenBackground\practiceBackground.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\player1Sprite.png</Source>
+      <Name>players\player1Sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\player1Sprite.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenBackground\menuBackground (1).jpg</Source>
+      <Name>menuScreenBackground\menuBackground (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenBackground\menuBackground (1).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenBackground\menuBackground (2).jpg</Source>
+      <Name>menuScreenBackground\menuBackground (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenBackground\menuBackground (2).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenBackground\menuBackground (3).jpg</Source>
+      <Name>menuScreenBackground\menuBackground (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenBackground\menuBackground (3).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenBackground\menuBackground (4).jpg</Source>
+      <Name>menuScreenBackground\menuBackground (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenBackground\menuBackground (4).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenBackground\menuBackground (5).jpg</Source>
+      <Name>menuScreenBackground\menuBackground (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenBackground\menuBackground (5).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenBackground\menuBackground (6).jpg</Source>
+      <Name>menuScreenBackground\menuBackground (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenBackground\menuBackground (6).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenBackground\menuBackground (7).jpg</Source>
+      <Name>menuScreenBackground\menuBackground (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenBackground\menuBackground (7).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuScreenBackground\menuBackground (8).jpg</Source>
+      <Name>menuScreenBackground\menuBackground (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\menuScreenBackground\menuBackground (8).xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\player2Sprite.png</Source>
+      <Name>players\player2Sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\player2Sprite.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hitBox.png</Source>
+      <Name>hitBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\hitBox.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\energyBall.png</Source>
+      <Name>players\energyBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\energyBall.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\energyBallFlipped.png</Source>
+      <Name>players\energyBallFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\energyBallFlipped.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\energyBar.png</Source>
+      <Name>players\energyBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\energyBar.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\energyBarFlipped.png</Source>
+      <Name>players\energyBarFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\energyBarFlipped.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\energyValueFlipped.png</Source>
+      <Name>players\energyValueFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\energyValueFlipped.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\energyValue.png</Source>
+      <Name>players\energyValue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\energyValue.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\healthBar.png</Source>
+      <Name>players\healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\healthBar.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\healthBarFlipped.png</Source>
+      <Name>players\healthBarFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\healthBarFlipped.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\healthValue.png</Source>
+      <Name>players\healthValue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\healthValue.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>players\healthValueFlipped.png</Source>
+      <Name>players\healthValueFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\players\healthValueFlipped.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenPics\fight.png</Source>
+      <Name>gameScreenPics\fight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenPics\fight.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenPics\countDown.png</Source>
+      <Name>gameScreenPics\countDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenPics\countDown.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenPics\rounds.png</Source>
+      <Name>gameScreenPics\rounds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenPics\rounds.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenPics\player1Wins.png</Source>
+      <Name>gameScreenPics\player1Wins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenPics\player1Wins.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameScreenPics\player2Wins.png</Source>
+      <Name>gameScreenPics\player2Wins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\gameScreenPics\player2Wins.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>practiceScreenPics\trainingDummy.png</Source>
+      <Name>practiceScreenPics\trainingDummy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\practiceScreenPics\trainingDummy.xnb</Output>
+      <Time>2019-09-10T17:56:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>infoScreenPics\controls.png</Source>
+      <Name>infoScreenPics\controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\infoScreenPics\controls.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>infoScreenPics\about.png</Source>
+      <Name>infoScreenPics\about</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\infoScreenPics\about.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\attack.wav</Source>
+      <Name>sounds\attack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\sounds\attack.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\blast.wav</Source>
+      <Name>sounds\blast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\sounds\blast.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\321fight.wav</Source>
+      <Name>sounds\321fight</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\sounds\321fight.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\click.wav</Source>
+      <Name>sounds\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\sounds\click.xnb</Output>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\music.mp3</Source>
+      <Name>sounds\music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\sounds\music.xnb</Output>
+      <Extra>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\sounds\music.wma</Extra>
+      <Time>2019-09-10T17:56:24-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0837E445-D74F-4570-B62E-11EC580FD705}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Grade 12 Final Game\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-09-11T00:16:21.1379514-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
